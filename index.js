@@ -1,3 +1,9 @@
+/*
+Made by: Arachnid (spiderphobias) <-- Contact on discord
+Name: Noor
+Uploaded: 12/17/2023
+Last Updated: 11/15/2023
+*/
 const cluster = require('cluster');
 const fetch = require('node-fetch');
 const fs = require('fs');
