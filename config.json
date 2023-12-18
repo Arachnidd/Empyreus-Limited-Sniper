@@ -1,0 +1,25 @@
+{
+    "GeneralInfo": {
+        "successWebhook": "",
+        "instantBuyUnder": 30,
+        "failedWebhook": "",
+        "updatesWebhook": "",
+        "minProfit": 30,
+        "discordId": "",
+        "robloxId": "",
+        "minDayVolume": 0.6,
+        "percent": 40,
+        "cookie": "",
+        "pm2ID": "",
+        "catalogSniper": true
+    },
+    "ListSniper": {
+        "enabled": true,
+        "list": ["564449640", "19027209", "2569005011", "494291269", "8763364938", "4255053867", "74891470", "1029025", "439945661", "4390891467", "1365767", "215718515", "583722932", "583721561", "583722710", "162066057", "9255011", "398674411", "1048037", "2409285794", "1609401184", "440738448", "1609402609", "2222774106", "1609401184", "1213472762", "15054210", "1082932"]
+    },
+    "BotHandlers": {
+        "_comment": "This was used for reselling, its pretty much useless. Im leaving this so future people can see how I handled it.",
+        "xcsrf": "This auto-updates, leave it",
+        "robux": "This auto-updates, leave it"
+    }
+}

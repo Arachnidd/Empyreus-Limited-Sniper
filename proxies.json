@@ -1,0 +1,3 @@
+{
+    "proxies": ["user:pass@dc1.us.blitzproxy.com:8080", "user:pass@dc2.us.blitzproxy.com:8080", "user:pass@dc3.us.blitzproxy.com:8080", "user:pass@dc4.us.blitzproxy.com:8080"]
+}

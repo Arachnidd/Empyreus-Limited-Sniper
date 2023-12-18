@@ -1,0 +1,23 @@
+{
+    "dependencies": {
+        "async": "^3.2.4",
+        "chalk": "^3.0.0",
+        "consola": "^2.15.3",
+        "edit-json-file": "^1.7.0",
+        "fs": "^0.0.1-security",
+        "https": "^1.0.0",
+        "https-proxy-agent": "^5.0.0",
+        "mathjs": "^11.2.1",
+        "node-fetch": "^2.6.7",
+        "superagent-proxy": "^3.0.0"
+    },
+    "name": "empyreus_limited_sniper",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index"
+    },
+    "author": "Arachnid (spiderphobias) / Noor",
+    "license": "ISC",
+    "description": ""
+}
