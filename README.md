@@ -1,4 +1,4 @@
-#OUTDATED CODE! OUTDATED API's! If you wish to comission another sniper (fastest guarenteed) dm @spiderphobias on discord!
+# ⚠️ OUTDATED CODE! OUTDATED API's! If you wish to comission another sniper (fastest guarenteed) dm @spiderphobias on discord! ⚠️
 
 # Empyreus-Roblox-Limited-Sniper
 Empyreus was the #1 sniper for a short period until I had school work and totally gave up on roblox. I've decided to open source the bot since no good offers came in which I was hoping for. Don't contact me for support on this, im over with Roblox.
